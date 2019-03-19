@@ -1,0 +1,18 @@
+.background{
+    background: #A0FBED;
+}
+
+.background h1{
+    color: #000;
+    font-weight: bold;
+    text-align: center;
+    font-size: 50px;
+}
+
+.background p{
+    color: #000;
+    font-weight: bold;
+    text-align: center;
+    font-family: Arial;
+    font-size: 22px;
+}
